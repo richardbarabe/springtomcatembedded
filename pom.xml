@@ -137,11 +137,11 @@
 			<artifactId>tomcat-jasper-el</artifactId>
 			<version>${tomcat.version}</version>
 		</dependency>
-<!-- 		<dependency> -->
-<!-- 			<groupId>org.apache.tomcat</groupId> -->
-<!-- 			<artifactId>tomcat-el-api</artifactId> -->
-<!-- 			<version>${tomcat.version}</version> -->
-<!-- 		</dependency> -->
+		<dependency>
+			<groupId>org.apache.tomcat</groupId>
+			<artifactId>tomcat-el-api</artifactId>
+			<version>${tomcat.version}</version>
+		</dependency>
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>tomcat-jsp-api</artifactId>
